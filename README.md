@@ -7,8 +7,13 @@ https://www.w3schools.com/
 - 여러 단어를 사용해서 이름을 지정하는 경우
 
 ```
-html-css
-html_css
+html-css : kebab case
+
+html_css : 
+
+htmlCss
+
+HtmlCss
 ```
 
 
