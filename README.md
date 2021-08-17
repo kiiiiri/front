@@ -9,7 +9,7 @@ https://www.w3schools.com/
 ```
 html-css : kebab case
 
-html_css : snake case
+html_css : snake case - Pyton
 
 htmlCss  : camel case - Javascript, JAVA, C, C++
 
