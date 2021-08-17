@@ -9,11 +9,11 @@ https://www.w3schools.com/
 ```
 html-css : kebab case
 
-html_css : 
+html_css : snake case
 
-htmlCss
+htmlCss  : camel case
 
-HtmlCss
+HtmlCss  : Pascal case
 ```
 
 
