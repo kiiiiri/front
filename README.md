@@ -11,9 +11,9 @@ html-css : kebab case
 
 html_css : snake case
 
-htmlCss  : camel case
+htmlCss  : camel case - Javascript, JAVA, C, C++
 
-HtmlCss  : Pascal case
+HtmlCss  : Pascal case - Javascript, JAVA, C, C++ ( Class )
 ```
 
 
