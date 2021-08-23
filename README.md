@@ -220,3 +220,84 @@ https://www.w3schools.com/css/css_selectors.asp
 https://www.w3schools.com/css/css_howto.asp
 
 > js에서 css를 제어할 때 인라인 방식으로 제어함.
+
+### CSS Text
+
+https://www.w3schools.com/css/css_text.asp
+
+### CSS Font
+
+https://www.w3schools.com/css/css_font.asp
+
+> Web Font
+>
+> - Goolgle Font : https://fonts.google.com/ (영문, 한글)
+> - Noonnu Font : https://noonnu.cc/ (한글)
+
+### CSS Box Model
+
+https://www.w3schools.com/css/css_boxmodel.asp
+
+> Box Model 구성 요소
+>
+> - Content(width/height)
+> - padding
+> - border
+> - margin
+
+### CSS width/height
+
+https://www.w3schools.com/css/css_dimension.asp
+
+> width/height 기본특성
+>
+> - 블럭 요소 : width는 부모요소에 맞춰져서 채워짐, height는 자식요소에 맞춰짐.
+> - 인라인 요소 : width/height 적용되지 않음 - 레이아웃 구성 용도로 사용하지 않음.
+
+> 단위
+>
+> - px : px 값으로 고정
+> - % : 부모요소를 기준으로 특정 비율크기로 설정
+
+### CSS Padding
+
+https://www.w3schools.com/css/css_padding.asp
+
+### CSS Margin
+
+https://www.w3schools.com/css/css_margin.asp
+
+### CSS Border
+
+https://www.w3schools.com/css/css_border.asp
+
+> border 축약 표현에 방향을 더해서 표현하는 내용으로 정리
+
+### CSS Background
+
+https://www.w3schools.com/css/css_background.asp
+
+\*\* CSS 상속
+
+> 부모요소에 적용된 CSS style이 자식요소에 적용되는 것
+> 모든 css 속성이 상속되는 것은 아님
+
+\*\* color 코드값
+
+> CSS에서 16진수 코드값과 10진수 코드값을 사용할 수 있음.
+> 16진수 코드값 : #16진수 숫자 6자리(0~9, a~f).
+> 10진수 코드값 : rgb(10진수숫자,10진수숫자,10진수숫자)
+> 10진수 코드값 + 투명도 표시 : rgba(10진수숫자,10진수숫자,10진수숫자,0.0~1.0)
+
+### CSS Flexbox
+
+https://www.w3schools.com/css/css3_flexbox_container.asp
+
+> 박스 배치 제어를 위한 display:flex 속성및 배치 관련 속성을 부모요소에 적용함.
+
+> flex-direction 속성
+>
+> - 박스 배치 방향 제어
+> - 가로배치, 세로배치 모두 제어가 가능함
+> - 가로배치가 기본 값
+
